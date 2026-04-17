@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Estudante apaixonado por tecnologia, sempre em busca de evolução constante. Atualmente explorando HTML, CSS e JavaScript, aberto a novos desafios e ferramentas. Gosto de transformar ideias em projetos práticos e compartilhar meu aprendizado por aqui 🚀</p>
+<p align="left">Estudante apaixonado por tecnologia, sempre em busca de evolução constante. Conhecimentos em HTML, CSS, JavaScript, TypeScript, ReactJS, aberto a novos desafios e ferramentas. Gosto de transformar ideias em projetos práticos e compartilhar meu aprendizado por aqui 🚀</p>
 
 ###
 
