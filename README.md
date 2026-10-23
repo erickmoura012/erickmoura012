@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,65:0d0d0d,100:0b3d91&height=230&section=header&text=Erick%20Moura&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DEVELOPER&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,65:0d0d0d,100:0b3d91&height=230&section=header&text=Erick%20Moura&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=60" width="100%" />
 
 <div align="center">
 
@@ -20,7 +20,7 @@ Analista de Soluções e estudante de Análise e Desenvolvimento de Sistemas, co
 
 ```
  > NOME ........ Erick Moura Almeida
- > CLASSE ...... Analista de Soluções · Developer
+ > CLASSE ...... Full Stack Developer · Analista de Soluções
  > FORMAÇÃO .... Análise e Desenvolvimento de Sistemas
  > ARSENAL ..... HTML · CSS · JavaScript · React · Git
  > FOCO ........ Web · Automação · Inteligência Artificial
